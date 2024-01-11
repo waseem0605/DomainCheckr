@@ -148,7 +148,7 @@ if args.whois:
     return results
 
 # Replace 'YOUR_API_KEY' with your actual Whois API key
- whois_api_key = "at_3GpuyO8gF3sMMemWvX29cBH0aGQi1"
+ whois_api_key = "ENTER_WHOIS_APIKEY"
 
 # Read domains from the external text file
  whois_requirements_file_path = "target-list.txt"
